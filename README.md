@@ -50,9 +50,3 @@ A **fully responsive HTML & CSS e-commerce website** featuring multiple pages: H
 - Hosted live on **GitHub Pages**.
 
 ---
-
-### 🔍 Screenshot Preview
-
-![Homepage](YOUR_HOMEPAGE_SCREENSHOT_LINK)  
-![Product Page](YOUR_PRODUCT_PAGE_SCREENSHOT_LINK)  
-![Cart Page](YOUR_CART_PAGE_SCREENSHOT_LINK)
