@@ -1,41 +1,45 @@
 🛍️ RedStore E-commerce Website
 
-A fully responsive HTML & CSS e-commerce website with multiple pages including products, product details, cart, account, and homepage.
+A fully responsive HTML & CSS e-commerce website featuring multiple pages, including products, product details, cart, account, and homepage. Hosted live on GitHub Pages.
 
 🔗 Live Demo
 
-Check out the live website here: Your GitHub Pages Link
+Click here to view the live website
 
 📂 Pages Included
-
-Homepage – Landing page with featured products and categories.
-
-Product Page – Displays all products with filtering and sorting options.
-
-Product Detail Page – Shows detailed information about a specific product.
-
-Cart Page – View and manage selected items before purchase.
-
-Account Page – User account section for login/register and profile management.
-
+Page	Description
+Homepage	Landing page with featured products and navigation to all sections.
+Product Page	Displays all products in a clean layout.
+Product Detail Page	Detailed information for each product including images, description, and price.
+Cart Page	View and manage selected items before “checkout.”
+Account Page	User account section for login, registration, and profile overview.
 🎨 Technologies Used
 
-HTML5
+This project is built entirely using HTML and CSS, with a focus on responsive design. GitHub is used to host the project and manage the repository.
 
-CSS3
+HTML5 – Structure and content of the website.
 
-Responsive Design
+CSS3 – Styling, layout, and responsive design.
 
-Git & GitHub
+Responsive Design – Ensures website works perfectly on mobile, tablet, and desktop.
 
-GitHub Pages for hosting
+GitHub & GitHub Pages – Version control, repository management, and hosting.
+
+Badges for quick visual reference:
+
+
+
+
+
+
+
 
 📱 Features
 
 Fully responsive design for mobile, tablet, and desktop.
 
-Easy navigation between pages.
+Modern UI with clean layouts and easy navigation.
 
-Modern and clean UI.
+Separate pages for products, product details, cart, and account.
 
-Simple cart functionality (frontend only).
+Hosted live on GitHub Pages for easy sharing and portfolio use.
